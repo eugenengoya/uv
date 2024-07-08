@@ -1,0 +1,27 @@
+{
+  "latitude": -1.25,
+  "longitude": 36.875,
+  "generationtime_ms": 0.03600120544433594,
+  "utc_offset_seconds": 10800,
+  "timezone": "Africa/Nairobi",
+  "timezone_abbreviation": "EAT",
+  "elevation": 1677,
+  "daily_units": {
+    "time": "unixtime",
+    "sunrise": "unixtime",
+    "sunset": "unixtime",
+    "daylight_duration": "s",
+    "sunshine_duration": "s",
+    "uv_index_max": "",
+    "uv_index_clear_sky_max": ""
+  },
+  "daily": {
+    "time": [1720386000],
+    "sunrise": [1720409769],
+    "sunset": [1720453154],
+    "daylight_duration": [43385.5],
+    "sunshine_duration": [36505.53],
+    "uv_index_max": [7.55],
+    "uv_index_clear_sky_max": [8.45]
+  }
+}
