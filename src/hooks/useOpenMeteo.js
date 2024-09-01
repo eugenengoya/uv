@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { FetchOpenMeteo } from "../services/apis/openmeteo/fetch/FetchOpenMeteo";
+import { FetchOpenMeteo } from "../api/fetchOpenMeteo";
 
 export default function useOpenMeteo() {
   const [data, setData] = useState(null);

@@ -1,7 +1,7 @@
 import UV from "./components/UV";
 
 function App() {
-  const projectTitle = import.meta.env.VITE_PROJECT_NAME;
+  const projectTitle = "UV";
   document.title = projectTitle;
 
   return (
